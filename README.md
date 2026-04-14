@@ -63,9 +63,9 @@ The goal is to evaluate revenue, conversion rates, and sales agent performance.
 ---
 
 ## 📁 Project Structure
-- `data/` → raw dataset  
-- `dashboard/` → final Excel dashboard  
-- `screenshots/` → visualization preview  
+- raw dataset  
+- final Excel dashboard  
+- visualization preview  
 
 ---
 
